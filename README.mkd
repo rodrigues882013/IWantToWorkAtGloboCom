@@ -119,7 +119,7 @@ Relação de vagas atual:
 * Área de Webmedia (3 vagas)
 * Área de Esporte (1 vaga)
 * Área de Jornalismo (1 vaga)
-* Área de Entretenimento (1 vaga)
+* Techtudo (2 vagas)
 * Plataforma de Comentários (1 vaga)
 * Tsuru: Plataforma como serviço (1 vaga)
 * Banco de Dados (1 vaga)
@@ -213,11 +213,9 @@ Experiência com infra-estrutura de aplicações web de alta escala;
 Conhecimento de automação de deploy com Puppet, Chef, etc;
 Ser poliglota em linguagens de programação e linguagens naturais;
 
-## Área de Entretenimento (1 Vaga)
+## Techtudo (2 Vagas)
 
-Você sabia que uma votação do BBB já teve mais votos que o Obama em sua primeira eleição?
-Um único clique pra muitos e um desafio enorme para um time extremamente focado em fazer da sua diversão uma prioridade.
-Venha fazer parte do time do Gshow o portal de entretenimento da TV Globo!
+Venha fazer parte do time do Techtudo, o site de tecnologia da Globo.com. Tudo sobre jogos, eletrônicos, celulares, software, TV, internet e downloads.
 
 
 **Must Have:**
