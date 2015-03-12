@@ -116,6 +116,7 @@ Estamos sempre em busca de talentos! Mesmo que não haja vaga disponível abaixo
 faça o fork do projeto e mande no lugar da vaga "Nenhuma vaga disponível".
 
 Relação de vagas atual:
+* Área de Big Data (vagas no Rio de Janeiro e em Porto Alegre)
 * Área de Webmedia (3 vagas)
 * Área de Esporte (1 vaga)
 * Área de Jornalismo (1 vaga)
@@ -126,6 +127,37 @@ Relação de vagas atual:
 * Plataforma de Interatividades (1 vaga)
 
 Veja abaixo a descrição detalhada de cada vaga.
+
+## Área de Big Data - Vagas no Rio de Janeiro e em Porto Alegre
+
+A área de Big Data da globo.com é responsável por três principais frentes:
+
+**Data science:** Responsável pela análise de dados, identificando tendências e comportamentos. Também é responsável pela visualização, apresentação e comunicação dos resultados. Utiliza conhecimentos de áreas como modelagem estatística, aprendizado de máquina, processamento de linguagem natural e recuperação da informação.
+
+**Personalização:** Time responsável por analisar o perfil dos usuários com base em suas iterações com os produtos da globo.com e informações proveniente de suas redes sociais. O objetivo com isso é gerar recomendação de conteúdo relevante para os usuário de modo a melhorar a sua experiência nos sites da globo.com, aumentando o tempo de permanência no portal. Trabalha através da formulação de hipóteses, escolha e treinamento de modelos de machine learning e desenvolvimento de testes offline e online (A/B) para validação destas hipóteses.
+
+**Infra-estrutura para big data:** Responsável pela coleta, armazenamento e processamento de grandes massas de dados. É experiente com as principais ferramentas do ecossistema Hadoop (HBase, Spark, Pig, Kafka, Zookeeper, Mahout, Parquet, etc). Avalia, recomenda e constrói plataformas com foco em escalabilidade, alta disponibilidade e tolerância a falhas que auxiliem as necessidades de negócio do portal.
+
+**Requisitos**
+
+* Excelente domínio de estrutura de dados, matemática e estatística.
+* Conhecimento de linguagens de programação (Java, Scala, Python, etc).
+* Conhecimento de bancos de dados (SQL ou NoSQL).
+* Experiência no processamento e análise de grandes bases de dados (BigData)
+* Conhecimentos de machine learning.
+
+**Diferencial**
+
+* Mestrado, e/ou Doutorado em computação, matemática, estatística ou área técnica relevante.
+* Experiência sólida em design e arquitetura de software.
+* Excelência em Scala, Java ou Python.
+* Proficiência no uso de um sistema operacional base Unix (Linux ou Mac OS).
+* Experiência com Apache Hadoop.
+* Experiência com Spark.
+* Experiência com Matlab, SAS, R, scikit-learn ou software similar.
+* Experiência em uma ou mais técnicas de Machine Learning: clusterização, regressão, classificação, fatoração de matrizes, etc.
+
+Se você se encaixa total ou parcialmente nesse perfil, entre em contato conosco.
 
 ## Área de Webmedia - 3 vagas
 
