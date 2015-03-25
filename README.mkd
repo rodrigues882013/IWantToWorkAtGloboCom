@@ -124,8 +124,8 @@ Relação de vagas atual:
 * Plataforma de Comentários (1 vaga)
 * Tsuru: Plataforma como serviço (1 vaga)
 * Banco de Dados (1 vaga)
-* Plataforma de Interatividades (1 vaga)
-* Plataforma de Publicação (vagas para Porto Alegre/RS e Rio de Janeiro/RJ)
+* Plataforma de Interatividades
+* Plataforma de Publicação
 
 Veja abaixo a descrição detalhada de cada vaga.
 
@@ -311,7 +311,8 @@ Procuramos um DBA com experiência em ambientes de produção com alta disponibi
 * SPARQL
 * Python/Django,Ruby/Rails, Javascript
 
-## Plataforma de Interatividades (1 vaga)
+
+## Plataforma de Interatividades
 
 Nossa área é responsável por criar e manter os produtos interativos da globo.com como a votação do BBB, o palco de interatividades da TV, o feed de conversa ao vivo com o Bem Estar, Gamification entre outros.
 
@@ -331,7 +332,7 @@ Criamos produtos de ponta a ponta entregando a melhor experiência ao usuário, 
 * Nginx
  
 
-## Plataforma de Publicação (6 vagas)
+## Plataforma de Publicação
 
 Estas posições são para trabalhar nos times de desenvolvimento que cuidam da Plataforma de Publicação da globo.com. Nossa missão é criar as ferramentas de  publicação que permitem colocar todo tipo de conteúdo (notícias, vídeos, fotos, entre outros) do Grupo Globo na Internet, com a melhor qualidade possível e acessíveis a partir de qualquer dispositivo.
 
