@@ -288,29 +288,6 @@ Fazer parte da equipe do Tsuru significa que você vai lidar com diversas ativid
 
 Entre as tecnologias utilizadas no Tsuru, você encontrará Go, Python, MongoDB, MySQL, Docker, Juju, Shell Script, Amazon Web Services, etc.
 
-## Banco de Dados (1 vaga)
-
-Procuramos um DBA com experiência em ambientes de produção com alta disponibilidade e em suporte a equipes de desenvolvimento. Buscamos alguém que ame Internet, seja flexível, saiba se comunicar bem, goste de trabalhar em equipes e adore aprender novas tecnologias, como Big Data e NoSQL.
-
-**Habilidades Fundamentais**
-
-* Experiência com administração de MySQL e/ou Oracle
-* Modelagem de dados
-* Tuning de query
-* Programação em banco de dados (scripts de carga, procedures)
-* Arquiteturas com High Availability
-* Inglês fluente
-
-**Habilidades Desejáveis**
-
-* MongoDB, HBase, Openlink Virtuoso, Redis
-* Big Data
-* Banco de Dados na nuvem
-* NoSQL
-* Conhecimentos em Web Semântica
-* SPARQL
-* Python/Django,Ruby/Rails, Javascript
-
 
 ## Plataforma de Interatividades
 
