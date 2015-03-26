@@ -392,6 +392,8 @@ A maioria do nosso código está escrito em Python, temos muita coisa em mas som
 
 ##### Plus:
 
+* Conhecimentos em alguma ferramenta de provisionamento, tais como Puppet, Chef, etc;
+
 * Experiência com métodos ágeis (Scrum, Kanban, Lean, etc);
 
 * Experiência de trabalho com times geograficamente distribuídos;
