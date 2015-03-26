@@ -357,19 +357,20 @@ Esta vaga é para o nosso novo escritório em Porto Alegre/RS, porém submissõe
 
 ##### Nosso stack de tecnologias:
 
-A maioria do nosso código está escrito em Python, mas somos pragmáticos e gostamos de experimentar - por isso temos coisas em Go, Java, Objective C, Android, iOS. HTML5, CSS e Javascript também são bem corriqueiros. Todo o nosso ambiente de desenvolvimento e produção é fundamentado em cima de tecnologias open-source, começando pelo SO, Linux. Usamos Linux para tudo. Os times têm autonomia para escolher as tecnologias que julgarem mais adequadas para resolver cada problema, então com certeza temos muito mais coisas envolvidas nessa equação.
+A maioria do nosso código está escrito em Python, temos muita coisa em mas somos pragmáticos e gostamos de experimentar - por isso temos coisas em Go, Java, Objective C, Android, iOS. HTML5, CSS e Javascript também são bem corriqueiros. Todo o nosso ambiente de desenvolvimento e produção é fundamentado em cima de tecnologias open-source, começando pelo SO, Linux. Usamos Linux para tudo. Os times têm autonomia para escolher as tecnologias que julgarem mais adequadas para resolver cada problema, então com certeza temos muito mais coisas envolvidas nessa equação.
 
  
  
 
 ##### Desired Skills & Experience:
 
-
 * Ser apaixonado por desenvolvimento e tecnologia;
 
-* Gostar de experimentar novas idéias e formas de trabalhar;
+* Gostar de experimentar novas ideias e formas de trabalhar;
 
 * Ter espírito empreendedor e disposição para correr riscos;
+
+* Ser participativo na construção do produto contribuindo com idéias para o negócio; 
 
 * Ser aberto a mudanças de direcionamento dinâmicas;
 
@@ -379,11 +380,7 @@ A maioria do nosso código está escrito em Python, mas somos pragmáticos e gos
 
 * Escrever código limpo e legível para pessoas;
 
-* Experiência com Python, Ruby, Javascript, etc. (a maioria do nosso código é em Python!);
-
-* Conhecimentos de automação de deploy (capistrano, fabric, etc)
-
-* Conhecimentos em alguma ferramenta de provisionamento, tais como Puppet, Chef, etc;
+* Conhecimentos de automação de deploy (capistrano, fabric, etc);
 
 * Conhecimentos de desenvolvimento WEB (HTML, CSS, Javascript, etc);
 
@@ -392,9 +389,8 @@ A maioria do nosso código está escrito em Python, mas somos pragmáticos e gos
 * Conhecimentos de testes automatizados unitários, de aceitação, mocks, Selenium, etc;
 
 
-##### Plus:
 
-* Conhecimentos de virtualização e/ou conteinerização com XEN, Docker, etc;
+##### Plus:
 
 * Experiência com métodos ágeis (Scrum, Kanban, Lean, etc);
 
