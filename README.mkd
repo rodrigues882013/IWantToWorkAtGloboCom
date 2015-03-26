@@ -368,9 +368,7 @@ A maioria do nosso código está escrito em Python, temos muitas coisas em Javas
 
 * Gostar de experimentar novas ideias e formas de trabalhar;
 
-* Ter espírito empreendedor e disposição para correr riscos;
-
-* Ser participativo na construção do produto contribuindo com idéias para o negócio; 
+* Ser participativo na construção do produto contribuindo com ideias para o negócio; 
 
 * Ser aberto a mudanças de direcionamento dinâmicas;
 
