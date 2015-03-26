@@ -357,7 +357,7 @@ Esta vaga é para o nosso novo escritório em Porto Alegre/RS, porém submissõe
 
 ##### Nosso stack de tecnologias:
 
-A maioria do nosso código está escrito em Python, temos muita coisa em mas somos pragmáticos e gostamos de experimentar - por isso temos coisas em Go, Java, Objective C, Android, iOS. HTML5, CSS e Javascript também são bem corriqueiros. Todo o nosso ambiente de desenvolvimento e produção é fundamentado em cima de tecnologias open-source, começando pelo SO, Linux. Usamos Linux para tudo. Os times têm autonomia para escolher as tecnologias que julgarem mais adequadas para resolver cada problema, então com certeza temos muito mais coisas envolvidas nessa equação.
+A maioria do nosso código está escrito em Python, temos muitas coisas em Javascript também, mas somos pragmáticos e gostamos de experimentar - por isso temos coisas em Go, Java, Objective C, Android, iOS entre outras. Todo o nosso ambiente de desenvolvimento e produção é fundamentado em cima de tecnologias open-source, começando pelo SO, Linux. Usamos Linux para tudo. Os times têm autonomia para escolher as tecnologias que julgarem mais adequadas para resolver cada problema, então com certeza temos muito mais coisas envolvidas nessa equação.
 
  
  
