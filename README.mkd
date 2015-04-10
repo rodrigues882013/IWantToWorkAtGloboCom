@@ -126,6 +126,7 @@ Relação de vagas atual:
 * Banco de Dados (1 vaga)
 * Plataforma de Interatividades
 * Plataforma de Publicação
+* Área de Projetos de Infraestrutura (2 vagas)
 
 Veja abaixo a descrição detalhada de cada vaga.
 
@@ -308,6 +309,26 @@ Também esperamos que você :
 
 Esta vaga é para o nosso novo escritório em Porto Alegre/RS, porém submissões de todo o Brasil são aceitas. A globo.com entende as dificuldades de mudança de cidade e nós oferecemos um pacote de transferência especial para pessoas de fora do estado.
 
+
+## Área de Projetos de Infraestrutura
+
+A área de Projetos de Infraetsrutura desenha, testa e implementa as soluções de infra necessárias para os diversos projetos desenvolvidos na globo.com. Trabalhamos com tecnologias voltadas para aplicações web, com uma preocupação constante com robustez, escalabilidade e facilidade de manutenção. Tratamos todas as nossas aplicações como sistemas de missão crítica. Usamos software livre na grande maioria das aplicações e ferramentas por trás do portal.
+
+**Requisitos**
+
+Procuramos profissionais com experiência em:
+
+* Instalação e configuração de servidores Linux.
+* Instalação e configuração de serviços voltados para Internet como web servers (Apache, Nginx), proxies e caches (Squid, Varnish)
+* Gestão de serviços de autenticação e autorização de acesso (PAM, LDAP).
+* Uso de sistemas de gerência de configuração (Puppet, Chef).
+* Uso de sistemas de monitoração e medidas de desempenho (Nagios, Cricket, statsd).
+* Configuração de equipamentos de rede (switches, routers, load balancers).
+* Instalação de servidores de aplicação/containers para aplicações Python, Ruby e Java.
+* Programação em shell script e Perl.
+* Configuração de aplicações para usar sistemas de banco de dados (MySQL, Oracle, MongoDB).
+
+As vagas nessa equipe são na cidade do Rio de Janeiro.
 
 
 ##### Nosso stack de tecnologias:
