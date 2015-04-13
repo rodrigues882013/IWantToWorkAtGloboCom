@@ -362,13 +362,19 @@ Procuramos profissionais com experiência em:
 
 * Instalação e configuração de servidores Linux.
 * Instalação e configuração de serviços voltados para Internet como web servers (Apache, Nginx), proxies e caches (Squid, Varnish)
-* Gestão de serviços de autenticação e autorização de acesso (PAM, LDAP).
-* Uso de sistemas de gerência de configuração (Puppet, Chef).
-* Uso de sistemas de monitoração e medidas de desempenho (Nagios, Cricket, statsd).
 * Configuração de equipamentos de rede (switches, routers, load balancers).
 * Instalação de servidores de aplicação/containers para aplicações Python, Ruby e Java.
 * Programação em shell script e Perl.
 * Configuração de aplicações para usar sistemas de banco de dados (MySQL, Oracle, MongoDB).
+
+**Diferenciais**
+
+Experiência nesses tópicos é um diferencial para os candidatos:
+
+* Gestão de serviços de autenticação e autorização de acesso (PAM, LDAP).
+* Uso de sistemas de gerência de configuração (Puppet, Chef).
+* Uso de sistemas de monitoração e medidas de desempenho (Nagios, Cricket, statsd).
+* Programação em Python, Ruby ou Java.
 
 As vagas nessa equipe são na cidade do Rio de Janeiro.
 
