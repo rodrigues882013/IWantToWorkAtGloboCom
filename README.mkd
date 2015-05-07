@@ -1,12 +1,10 @@
-Por que trabalhar na globo.com?
-===============================
+# Por que trabalhar na globo.com?
 
-"Por que você gostaria de trabalhar na globo.com?" - essa é a pergunta clássica 
+"Por que você gostaria de trabalhar na globo.com?" - essa é a pergunta clássica
 nos processos de seleção de qualquer empresa, certo? Então, deixa a gente te ajudar
 a respondê-la quando chegar a hora da sua entrevista. Aí vai:
 
-Líder de Mercado em todos os segmentos que atua
-===============================================
+# Líder de Mercado em todos os segmentos que atua
 
 A globo.com é líder absoluta no mercado de portais de notícias, esportes e
 entretenimento em toda a América Latina. São dezenas de milhões de acessos por
@@ -25,8 +23,7 @@ dia).
 Logo, **um dos motivos de você querer trabalhar na globo.com é ser parte
 integrante da vida diária de mais de 10 milhões de brasileiros**.
 
-Líder no segmento de desenvolvimento ágil para a Web
-====================================================
+# Líder no segmento de desenvolvimento ágil para a Web
 
 A globo.com é referência de mercado em desenvolvimento ágil, contando com times
 atuando com metodologias diversas como scrum e lean.
@@ -46,8 +43,7 @@ na globo.com é de total estímulo a inovação.
 Sendo assim, **você quer trabalhar na globo.com para crescer profissionalmente
 em um ambiente que proporciona experimentação e aprendizado**.
 
-Enorme investimento em treinamentos e conferências
-==================================================
+# Enorme investimento em treinamentos e conferências
 
 A globo.com investe **PESADO** em treinamento de suas equipes. Isso fica
 evidente na quantidade de eventos que patrocinamos e mais ainda na quantidade
@@ -70,41 +66,27 @@ das equipes.
 Desta forma, **você quer trabalhar na globo.com, para estar em uma empresa que
 vai investir de forma consistente na sua carreira e crescimento profissional**.
 
-Ok, quero trabalhar na globo.com! Como eu faço?
-===============================================
+# Ok, quero trabalhar na globo.com! Como eu faço?
 
-Se você se convenceu que quer trabalhar na globo.com:
+Se você se convenceu que quer trabalhar na globo.com, acesse **http://talentos.globo.com/** e veja as vagas disponíveis. Alí você poderá submeter seu currículo para as áreas de interesse.
 
-* Forka esse projeto;
-* No seu fork, preencha o arquivo cv.mkd com seu currículo;
-* Não esqueça de indicar a vaga que você escolheu; se você achar que se encaixa em mais de uma vaga, especifique todas!
-* Faça um pull request.
-* Caso você tenha alguma restrição em relação a enviar o pull-request publicamente, não tem problema! Encaminhe o seu CV (ainda especificando a vaga) para [talentos@corp.globo.com](talentos@corp.globo.com).
-
-Sinta-se a vontade para incluir QUALQUER coisa que você acredite que
+Sinta-se a vontade para incluir no seu currículo QUALQUER coisa que você acredite que
 vá ser bom pra sua imagem perante quem estará recebendo esses dados (twitter,
 facebook, sites online, outros trabalhos, etc).
-
-Só para lembrar: Estes dados que você está colocando ficarão visíveis para todo mundo,
-logo se você não quiser colocar dados sensitive como telefone, e-mail, etc, basta enviar
-por mensagem direta.
 
 Gostaríamos de lembrar que se você quer trabalhar na área de desenvolvimento
 simplesmente porque dá dinheiro e realmente não está nessa por amor a
 profissão, por favor procure outra empresa. É essencial que os candidatos que
 mandarem currículo sejam apaixonados por desenvolvimento.
 
-
-Se você não é desenvolvedor e gostaria de trabalhar em outra area
-=================================================================
+# Se você não é desenvolvedor e gostaria de trabalhar em outra area
 
 Envie email para talentos@corp.globo.com com o seu CV e a área de interesse
 
 
-Condições e Benefícios Oferecidos
-=================================
+# Condições e Benefícios Oferecidos
 
-* Local: Rio de Janeiro (não se preocupe, se você é de fora, nós te ajudamos com a mudança!)
+* Local: Rio de Janeiro ou Porto Alegre, dependendo da vaga (não se preocupe, se você é de fora, nós te ajudamos com a mudança!)
 * Regime: CLT
 * Período: Integral
 * Contratação imediata
@@ -116,131 +98,3 @@ Oferecemos salário de mercado! Além disso, também temos os seguintes benefíc
 * Plano odontológico opcional
 * Seguro de vida
 * Previdência Privada
-
-Vagas Disponíveis
-=================
-
-Estamos sempre em busca de talentos! Mesmo que não haja vaga disponível abaixo,
-faça o fork do projeto e mande no lugar da vaga "Nenhuma vaga disponível".
-
-
-
-Área de Jornalismo (1 vaga)
--------------------------------
-
-Você quer ajudar a construir o maior portal de notícias do país? Venha participar da equipe que faz o G1 e ajude a informar melhor 10 milhões de brasileiros todo dia.
-
-**Must Have:**
-Ser apaixonado por desenvolvimento e tecnologia;
-Ter facilidade de trabalhar dentro de times multi-disciplinares;
-Escrever código limpo e legível para pessoas;
-Ter conhecimentos em design e arquitetura de software;
-Experiência com Python e Django;
-Experiência com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
-
-**Should Have:**
-Experência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc);
-Experiência com testes unitários, de aceitação, mocks, Selenium, etc;
-Conhecimento de técnicas cross-browser, SEO, HTML5 e CSS3;
-
-**Nice to Have:**
-Experiência com metodologias ágeis, como Scrum;
-Experiência com infra-estrutura de aplicações web de alta escala;
-Conhecimento de automação de deploy com Puppet, Chef, etc;
-Ser poliglota em linguagens de programação e linguagens naturais;
-
-
-
-Área de Webmedia (2 Vagas)
--------------------------------
-
-Esta posição é na área responsável pela área de vídeos da Globo.com. Nossa missão é disponibilizar toda a produção 
-de vídeos das organizações Globo na Internet, com a melhor qualidade possível. Hoje, mais de 250 milhões de vídeos 
-são assistidos por mês, suportados por uma infra-estrutura gigantesca. Trabalhamos com as mais diversas linguagens
-(Ruby on Rails, C/C++, Python/Django, JS/HTML/CSS), desenvolvendo desde APIs, sistemas de encoding, infra-estrutura 
-de distribuição e entrega de vídeos, sistemas de recomendação e analytics, até portais, como o globo.tv - http://globotv.globo.com.
-
-Além disso, somos responsáveis pela transmissão ao vivo de vários eventos - desde campeonatos estaduais de futebol,
-grandes eventos como o último Rock-in-Rio, até as câmeras ao vivo do BBB, que ficam disponíveis 24x7 para todos os 
-assinantes da globo.com.
-
-**Must Have:**
-* Ser apaixonado por desenvolvimento e tecnologia;
-* Ter facilidade de trabalhar dentro de times multi-disciplinares;
-* Escrever código limpo e legível para pessoas;
-* Ter conhecimento e experiência em design e arquitetura de software;
-* Experiência com Python, Ruby ou C/C++;
-* Experiência com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
-
-**Should Have:**
-* Experência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc);
-* Experiência com testes unitários, de aceitação, mocks, Selenium, etc;
-* Conhecimento de técnicas cross-browser, SEO, HTML5 e CSS3;
-
-**Nice to Have:**
-* Experiência com metodologias ágeis, como Scrum;
-* Experiência com infra-estrutura de aplicações web de alta escala;
-* Conhecimento de automação de deploy com Puppet, Chef, etc;
-* Ser poliglota em linguagens de programação e linguagens naturais;
-
-
-Plataforma de Cadastro (1 Vaga)
----------------------------------
-
-Time responsável pela plataforma única de cadastro e login da globo.com, assim como as inscrições de programas como "BBB", "The Voice" e colaborações dos internautas. O Time trabalha com diversas tecnologias, linguagens, frameworks e sistemas, o que proporciona um ambiente variado, interessante e desafiador. Nossas aplicações lidam com milhões de requisições diariamente e precisamos de soluções criativas para lidar com estes volumes. 
-
-**Requisitos para a vaga**
-
-* Práticas de engenharia de software (refactory, TDD, etc..)
-* Proficiência em Arquiteturas de sistemas web (arquiteturas comuns, casos de sucesso, problemas típicos etc..)
-* Conhecimentos de mecanismos e estratégias de cache
-* Experiência sólida em desenvolvimento web (HTTP, REST, webserver, etc..)
-* Noções de segurança web (injection, XSS, CSRF, codificação segura)
-* Conhecimentos mínimos em infraestrutra (Sistemas Operacionais, Redes (TCP/IP), DNS, webservers etc..)
-* Queries SQL, Oracle e Mysql
-* Sólidos conhecimentos em java, ruby, javascript e CSS
-* Experiência em java com JPA, Hibernate, Spring, EJB, Struts, Velocity
-* Experiência em com jboss e tomcat
-* Experiência em java com o pacote "java.concurrent"
-
-
-Plataforma de Personalização (1 Vaga)
--------------------------------------
-
-Time responsável por analisar o perfil dos usuários com base em suas iterações com os produtos da globo.com e informações proveniente de suas redes sociais. O objetivo com isso é gerar recomendação de conteúdo relevante para os usuário de modo a aumentar o tempo de permanência nos sites da Globo.com.
-
-
-**Requisitos para a vaga**
-
-* Experiência em uso de bancos NoSql 
-* Proficiência no uso de um sistema operacional base Unix (Linux ou Mac OS);
-* Proficiência no desenvolvimento de sistemas de recomendação nas abordagens Collaborative Filtering e Content Based.
-* Experiência no processamento de grandes volumes de dados e eventos em tempo real.
-* Conhecimento do projeto Apache Mahout
-* Experiência sólida em design e arquitetura de software; 
-* Experiência sólida em construção de aplicações web com Ruby, Rails; 
-* Experiência sólida com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
-* Experiência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc)
-
-
-Plataforma de Comentários (2 Vagas)
--------------------------------------
-
-Time responsável por desenvolver a plataforma de comentários da globo.com. 
-
-**Requisitos para a vaga**
-
-* Ser apaixonado por desenvolvimento e tecnologia; 
-* Ter facilidade de trabalhar dentro de times multi-disciplinares; 
-* Escrever código limpo e legível para pessoas; 
-* Experiência sólida em design e arquitetura de software; 
-* Experiência sólida em construção de aplicações web com Python, Django, Tornado; 
-* Experiência sólida com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
-* Experiência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc)
-* Experiência com testes unitários, de aceitação, mocks, Selenium, etc;
-* Experiência com infra-estrutura de aplicações web de alta escala; 
-* Experiência com um mecanismo de controle de versão;
-* Proficiência no uso de um sistema operacional base Unix (Linux ou Mac OS);
-
-
-
